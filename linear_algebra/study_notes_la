@@ -1,0 +1,22 @@
+# 线性代数
+
+## 向量
+
+标准化向量
+
+Zero Vector: has no normalization, has not direction
+
+inner product / dot product 內积/点击（结果是一个数值）
+
+paralle vectors 平行向量，一个向量乘以标量等于另一个向量
+
+orthogonal vecotrs 正交向量，两个向量想成等于零
+
+如果一个向量与自身正交，那这个向量只能是零向量
+
+
+
+零向量与其他所有向量平行并且正交
+
+## Change logs
+2017.06.10 创建

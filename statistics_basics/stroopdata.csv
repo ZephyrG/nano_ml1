@@ -1,0 +1,14 @@
+t-Test: Paired Two Sample for Means,,
+,,
+,Congruent,Incongruent
+Mean,14.051125,22.01591667
+Variance,12.66902907,23.01175704
+Observations,24,24
+Pearson Correlation,0.351819527,
+Hypothesized Mean Difference,0,
+df,23,
+t Stat,-8.020706944,
+P(T<=t) one-tail,2.0515E-08,
+t Critical one-tail,1.713871528,
+P(T<=t) two-tail,0.000000041,
+t Critical two-tail,2.06865761,
