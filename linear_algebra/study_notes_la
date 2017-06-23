@@ -14,9 +14,48 @@ orthogonal vecotrs 正交向量，两个向量想成等于零
 
 如果一个向量与自身正交，那这个向量只能是零向量
 
-
-
 零向量与其他所有向量平行并且正交
+
+向量积 Cross Product
+三维向量特有
+右手原则
+向量积 = 平行四边形的面积
+
+## 交集
+“flat” = defined by linear equations
+Linear equations:
+- can add and substract variables and constants
+- can multiple a variable by a constant
+
+Variables
+Constraints: equatins representing physical realities or objectives
+
+### Basics - lines in two dimensions
+- Basepoint
+- Direction vector
+parametrization of the line 直线参数化
+
+in 2D
+如果两条直线不平行，他们有唯一的交点；
+如果两条直线平行但不重合，他们没有交点；
+如果两条直线重合，他们有无数个交点
+
+判断两条直线是否相交
+- 首先判断是否平行，通过法向量(normal vector)
+- 如果两天直线平行，判断是否重合(coincident)
+  - 从两条直线各取一点，判断连接向量(connecting vecotr)是否与法向量正交
+
+二维空间中两条以上直线
+- 没有共同交点 inconsistent
+
+### 3D空间
+Line: Defined by single linear equation by 2 variables
+Plane: Defined by single linear equation by 3 variables
+
+
+
+
 
 ## Change logs
 2017.06.10 创建
+2017.06.18 增加内容
